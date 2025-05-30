@@ -1,0 +1,12 @@
+# Ignorar la carpeta de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar las llaves SSH (¡MUY IMPORTANTE!)
+key
+key.pub
+
+# Otros archivos que podrías querer ignorar (ejemplos)
+# .vscode/
+# .env
+# *.log
