@@ -1,0 +1,12 @@
+R = Red
+L = Light Olive Green
+B = Blue
+O = Orange
+C= Cyan
+N = Brown
+D = Golden
+T = Teal
+M = Purple
+S = Silver
+F = Fucsia
+U = Dark Blue
